@@ -1,0 +1,115 @@
+ body {width:100%;height:100%;margin:0;padding:0;
+    font-family: 'Oswald', sans-serif !important;
+}
+
+h1, h2, h3, h4 {padding:0;margin:0;}
+h3 {color: #000 !important;}
+
+p {margin:0;padding:0;color:#000 !important;}
+.jumbotron p {
+
+
+    color: #fff !important;
+
+}
+
+header {
+background-position: bottom;
+background-repeat: no-repeat;
+background:#000 !important;
+padding-bottom: 48px !important;
+}
+
+.progress {height:50px !important;}
+.progress-bar {font-size:20px !important;line-height:50px !important;}
+.jumbotron h1{
+
+    font-family: 'Oswald', sans-serif;
+	font-weight:bold !important;
+	color:#fff !important;
+}
+.jumbotron p {color:#fff;}
+
+
+.selection {font-size:0;}
+.selection select {padding: 8px 25px 8px 15px;
+
+box-sizing: border-box;
+
+
+min-width: 1px;
+
+
+
+color: #000000;
+
+overflow: hidden;
+
+background: transparent url(select.png) no-repeat 96% center;
+
+    background-size: auto auto;
+
+background-size: auto 50%;
+
+box-shadow: none;
+
+font-family: 'Oswald', sans-serif;
+
+-webkit-appearance: none;
+
+-moz-appearance: none;
+
+appearance: none;
+    height: 49px !important;
+border: 1px solid #C7C7C7;
+border-radius: 0px !important;
+width: 350px;
+max-width:95%;
+}
+
+.footer-text {
+padding-top:20px;
+color: #000;
+font-size: 10px;}
+
+.generate {background:#000;font-size: 15px;
+color:#fff;
+padding: 14px 26px;
+border: 1px solid #000;
+width: 100%;
+margin-top:10px;
+max-width:95%;
+width:350px;
+}
+.desc-text {font-size: 13px;
+
+margin: 0 0 15px 0;
+
+    margin-bottom: 15px;
+
+color: #000000;
+
+font-family: 'Oswald', sans-serif;
+
+font-weight: 400;
+
+font-style: normal;
+
+letter-spacing: 0.08em;
+
+line-height: 1.7em;}
+
+.modal-content  {
+    -webkit-border-radius: 0px !important;
+    -moz-border-radius: 0px !important;
+    border-radius: 0px !important; 
+}
+
+
+.secure {
+   color: transparent !important;
+   text-shadow: 0 0 10px rgba(0,0,0,0.8) !important;
+}
+#verification-outer {display:inline-block;}
+#verification-test {display:inline-block;}
+#verification-captcha {display:inline-block;width: 100%;}
